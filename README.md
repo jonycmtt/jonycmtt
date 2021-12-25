@@ -1,4 +1,4 @@
-Hlw I'm SALMAN RAHAMAN Jony
+Hlw I'm Salman Rahaman Jony
 Professional FrontEnd Developer
 
 
