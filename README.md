@@ -1,6 +1,6 @@
 <h1>Hello, I'm Salman Rahaman Jony  👋 </h1>
-<img  alt="jpg" src="https://github.com/jonycmtt/jonycmtt/blob/main/cover.jpg"?raw=true" width="1000" height="auto" />
 <br/>
+<img  alt="jpg" src="https://github.com/jonycmtt/jonycmtt/blob/main/cover.jpg"?raw=true" width="1000" height="auto" />
 <h1 align="center"># 💫 About Me: </h1>
 </br>
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/coder.gif?raw=true" width="450" height="280" />
