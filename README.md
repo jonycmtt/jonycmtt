@@ -1,11 +1,8 @@
 ### Hello World, I'm Salman Rahaman Jony  👋
-
-# 💫 About Me:
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="auto" />
+<br/><br/>
+<h1># 💫 About Me: </h1>
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="280" />
 🔭 I’m currently working on different kinds of projects!<br>👯 I’m looking to collaborate on teaching everyone !<br>🌱 I’m currently learning MERN stack !<br>💬 Ask me about how to learn front end web development<br>⚡ Fun fact - I am lazy but smart
-
-Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
