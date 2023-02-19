@@ -5,7 +5,7 @@
   
 <br/>
 <img  alt="jpg" src="https://github.com/jonycmtt/jonycmtt/blob/main/cover.jpg"?raw=true" width="1000" height="auto" />
-<h1 align="center"> <img  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/listen-to-me-tweek-tweak.gif?raw=true" width="170" height="170" /> : </h1>
+<h1 align="center"> <img  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/listen-to-me-tweek-tweak.gif?raw=true" width="150" height="150" /> : </h1>
                   
 </br>
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/coder.gif?raw=true" width="450" height="320" />
@@ -29,7 +29,7 @@
 ##  <img  alt="gif" src="https://media.tenor.com/8hukgvYze8MAAAAi/busy-bee-trophy.gif" width="80" height="auto" /> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jonycmtt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <h2>I'm Ready to Build Your Website</h2>
+<img align="left"  alt="gif" src="https://media.tenor.com/sWYXySliYPQAAAAi/%E6%BA%96%E5%82%99-%E6%BA%96%E5%82%99%E4%B8%87%E7%AB%AF.gif" width="450" height="400" />
+<img align="right"  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/giphy.gif?raw=true" width="450" height="400" />
+                                                                                                           
