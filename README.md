@@ -37,7 +37,8 @@
 
 ##  <img  alt="gif" src="https://media.tenor.com/8hukgvYze8MAAAAi/busy-bee-trophy.gif" width="80" height="auto" /> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jonycmtt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+                                                                                                               </br>
+#### My Projects & Ventures
    <table>
   <thead align="center">
     <tr border: none;>
