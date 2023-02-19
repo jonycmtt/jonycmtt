@@ -1,5 +1,6 @@
-<h1> <img  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/hi.gif?raw=true?raw=true"?raw=true" width="70" height="70" /> I'm Salman Rahaman Jony   </h1>
-<h3>Be Aware be Safe </h3>
+<h1> <img  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/hi.gif?raw=true?raw=true" width="70" height="70" /> I'm Salman Rahaman Jony   </h1>
+<h3>👯 Be Aware be Safe...<img  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/kiiroitori-yellow-bird.gif?raw=true"? width="50" height="50" /></h3>
+  <img  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/welcome.gif?raw=true"  />
 <br/>
 <img  alt="jpg" src="https://github.com/jonycmtt/jonycmtt/blob/main/cover.jpg"?raw=true" width="1000" height="auto" />
 <h1 align="center"> 💫 About Me: </h1>
@@ -12,7 +13,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jonycmt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonycmt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-rahaman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jonyislamcmt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jonycmt) 
 
-[![](https://visitcount.itsvg.in/api?id=jonycmtt&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jonycmtt&icon=0&color=6)](https://visitcount.itsvg.in)
 <br/><br/><br/>
 
 # 💻 Tech Stack:
