@@ -26,7 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonycmtt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/><br/><br/>
 
-## 🏆 GitHub Trophies
+##  <img  alt="gif" src="https://media.tenor.com/8hukgvYze8MAAAAi/busy-bee-trophy.gif" width="100" height="auto" /> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jonycmtt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
