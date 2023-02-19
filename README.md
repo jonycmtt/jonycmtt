@@ -1,6 +1,6 @@
 <h1> <img  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/hi.gif?raw=true?raw=true" width="70" height="70" /> I'm Salman Rahaman Jony   </h1>
 <h3>👯 Be Aware be Safe...<img  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/kiiroitori-yellow-bird.gif?raw=true"? width="50" height="50" /> 
-  <img align="right"  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/welcome.gif?raw=true" width="auto" height="70" />
+  <img align="right"  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/welcome.gif?raw=true" width="auto" height="60" />
 </h3>
   
 <br/>
