@@ -1,7 +1,7 @@
 <h1>Hello, I'm Salman Rahaman Jony  👋 </h1>
 <br/>
 <img  alt="jpg" src="https://github.com/jonycmtt/jonycmtt/blob/main/cover.jpg"?raw=true" width="1000" height="auto" />
-<h1 align="center"># 💫 About Me: </h1>
+<h1 align="center"> 💫 About Me: </h1>
 </br>
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/coder.gif?raw=true" width="450" height="280" />
 🔭 I’m currently working on different kinds of projects!<br>👯 I’m looking to collaborate on teaching everyone !<br>🌱 I’m currently learning MERN stack !<br>💬 Ask me about how to learn front end web development<br>⚡ Fun fact - I am lazy but smart
