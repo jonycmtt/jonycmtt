@@ -30,6 +30,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=jonycmtt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## <h2> <img  alt="gif" src="https://media.tenor.com/tkpOfRTT21UAAAAi/flexed-biceps-joypixels.gif" width="80" height="80" /> I'm Ready to Build Your Website...</h2>
-<img align="left"  alt="gif" src="https://media.tenor.com/sWYXySliYPQAAAAi/%E6%BA%96%E5%82%99-%E6%BA%96%E5%82%99%E4%B8%87%E7%AB%AF.gif" width="450" height="400" />
-<img align="right"  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/giphy.gif?raw=true" width="450" height="400" />
+<img align="left"  alt="gif" src="https://media.tenor.com/sWYXySliYPQAAAAi/%E6%BA%96%E5%82%99-%E6%BA%96%E5%82%99%E4%B8%87%E7%AB%AF.gif" width="350" height="350" />
+<img align="right"  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/giphy.gif?raw=true" width="350" height="350" />
                                                                                                            
