@@ -45,7 +45,9 @@
 
 ##  <img  alt="gif" src="https://media.tenor.com/8hukgvYze8MAAAAi/busy-bee-trophy.gif" width="80" height="auto" /> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jonycmtt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-                                                                                                               </br>
+ </br>
+ ##  <img style="background: transparent"  alt="gif" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="1000" height="auto" /> 
+</br>
 #### My Projects & Ventures
    <table>
   <thead align="center">
