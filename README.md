@@ -38,9 +38,7 @@
 <br/>
 
 # <img  alt="gif" src="https://media.tenor.com/BoCIIaoZB1sAAAAi/darwin-darwin-is-buckled-and-dancing.gif" width="80" height="80" /> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jonycmtt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jonycmtt&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonycmtt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonycmtt&theme=dark&border_radius=0.5&exclude_days=Sun)](https://git.io/streak-stats)
 
 
 ##  <img  alt="gif" src="https://media.tenor.com/8hukgvYze8MAAAAi/busy-bee-trophy.gif" width="80" height="auto" /> GitHub Trophies
