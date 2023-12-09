@@ -11,15 +11,15 @@
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/coder.gif?raw=true" width="350" height="" />
 
-### 🔭 I’m currently working on different kinds of projects!
+#### 🔭 I’m currently working on different kinds of projects!
 
-### 🌱 I’m looking to collaborate on teaching everyone !
+#### 🌱 I’m looking to collaborate on teaching everyone !
 
-### 👯 I’m currently learning MERN stack !
+#### 👯 I’m currently learning MERN stack !
 
-### 🤔 I’m trying - To help people learn web development.
+#### 🤔 I’m trying - To help people learn web development.
 
-### ⚡ Fun fact - I am Look like Dark but smart Coder
+#### ⚡ Fun fact - I am Look like Dark but smart Coder
 
 <br>
 
