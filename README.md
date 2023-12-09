@@ -2,13 +2,41 @@
 </h3>
   
 <br/>
-<img  alt="jpg" src="https://github.com/jonycmtt/jonycmtt/blob/main/cover.jpg"?raw=true width="1000" height="auto" />
+<img  alt="jpg" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/cover.jpg"?raw=true width="1000" height="auto" />
+        
      
 </br>
+
+## 👀 Current overview
+
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/coder.gif?raw=true" width="450" height="320" />
-🔭 I’m currently working on different kinds of projects!<br>👯 I’m looking to collaborate on teaching everyone !<br>🌱 I’m currently learning MERN stack !<br>💬 Ask me about how to learn front end web development<br>⚡ Fun fact - I am lazy but smart
-                                                                                                                                 
+
+### 🔭 I’m currently working on different kinds of projects!
+
+### 🌱 I’m looking to collaborate on teaching everyone !
+
+### 👯 I’m currently learning MERN stack !
+
+### 🤔 I’m trying - To help people learn web development.
+
+### ⚡ Fun fact - I am Look like Dark but smart Coder
+
+<br>
+
+## Current Stats :
+
+<br />
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonycmtt&theme=whatsapp-dark2&hide_border=true&card_width=494" alt="GitHub Streak" /></a>
+</p>
+
+<!-- 👯
+🌱
+💬 Ask me about how to learn front end web development
+⚡ Fun fact -  -->
+
 ## <img  alt="gif" src="https://github.com/jonycmtt/jonycmtt/blob/main/wifi-gol.gif?raw=true" width="50" height="50" /> Connect with Me
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jonycmt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonycmt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-rahaman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jonyislamcmt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jonycmt)
 
 [![](https://visitcount.itsvg.in/api?id=jonycmtt&icon=0&color=6)](https://visitcount.itsvg.in)
