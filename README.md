@@ -133,9 +133,9 @@ Gmail:
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonycmtt&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonycmtt&theme=algolia)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonycmtt&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonycmtt&theme=maroongold)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonycmtt&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonycmtt&theme=algolia)
 
 </div>
