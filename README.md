@@ -136,6 +136,6 @@ Gmail:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonycmtt&theme=gruvbox)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonycmtt&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonycmtt&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonycmtt&theme=maroongold)
 
 </p>
