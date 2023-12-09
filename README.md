@@ -36,10 +36,7 @@
 
 <br />
 
-<!-- [<p align="center"><img height="75" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/salman-rahaman/)[<img height="75" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/Facebook.png">](https://www.facebook.com/jonycmt/) -->
-
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/salman-rahaman/)
-[<img height="75" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/Facebook.png">](https://www.facebook.com/jonycmt/)
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/salman-rahaman/)[<img height="75" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/Facebook.png">](https://www.facebook.com/jonycmt/)
 
 <br />
 
