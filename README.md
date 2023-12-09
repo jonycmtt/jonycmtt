@@ -131,7 +131,7 @@ Gmail:
 
 ## Profile Summary :
 
-<p align="center">
+<p align="center" style="width: 100%">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonycmtt&theme=gruvbox)
 
