@@ -124,3 +124,11 @@ Gmail:
 <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/XD.svg"/>
 <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Wordpress.svg"/>
 </p>
+
+<br>
+<br>
+<br>
+<p align="center">
+<img width="800" height="" src="https://api.githubtrends.io/user/svg/jonycmtt/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark"/>
+
+</p>
