@@ -9,7 +9,7 @@
 
 ## 👀 Current overview
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/coder.gif?raw=true" width="450" height="320" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/coder.gif?raw=true" width="350" height="" />
 
 ### 🔭 I’m currently working on different kinds of projects!
 
