@@ -7,6 +7,16 @@
      
 </br>
 
+## 👋 About Me:
+
+<p>Greetings! I'm Salman Rahaman, a dedicated front-end developer with a fervor for crafting engaging user interfaces. Currently, I'm immersed in the dynamic world of web development, steering my skills towards mastering the MERN stack—MongoDB,Mongoose, Express.js, React, Next.js and Node.js.</p>
+
+## 💡 Aspiring Full-Stack Developer:
+
+<p>Driven by a passion for both front-end aesthetics and back-end functionality, my ultimate goal is to become a proficient full-stack web developer. I envision a future where I seamlessly navigate every layer of web development to create comprehensive and scalable solutions.</p>
+
+</br>
+
 ## 👀 Current overview
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/coder.gif?raw=true" width="350" height="" />
