@@ -23,12 +23,22 @@
 
 <br>
 
-## Current Stats :
+## 📈 Current Stats :
 
 <br />
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jonycmtt&theme=whatsapp-dark2&hide_border=true&card_width=494" alt="GitHub Streak" /></a>
 </p>
+
+<!-- reach me out  -->
+
+## 📫 Feel free Reach me out :
+
+<br />
+
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/salman-rahaman/)[<img height="75" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/Facebook.png">](https://www.facebook.com/jonycmt/)
+
+<br />
 
 <!-- 👯
 🌱
