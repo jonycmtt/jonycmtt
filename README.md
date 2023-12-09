@@ -88,13 +88,13 @@
 ## I can use Editor :
 
 <br>
-
 <p align="center">
-<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg"/>
-<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Atom.svg"/>
+<img width="80" style="border : 1px solid #fff; border-radius: 10px" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/Notepad%2B%2B_logo.png"/>
 
 </p>
 <p align="center">
+<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg"/>
+<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Atom.svg"/>
 <img width="60" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/pngegg.png"/>
 
 </p>
