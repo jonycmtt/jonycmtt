@@ -129,7 +129,11 @@ Gmail:
 <br>
 <br>
 
+<p align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonycmtt&theme=gruvbox)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonycmtt&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonycmtt&theme=gruvbox)
+
+</p>
