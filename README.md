@@ -36,7 +36,9 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/salman-rahaman/)[<img height="75" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/Facebook.png">](https://www.facebook.com/jonycmt/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jonycmt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonycmt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-rahaman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jonyislamcmt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jonycmt)
+
+[![](https://visitcount.itsvg.in/api?id=jonycmtt&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <br />
 
