@@ -38,11 +38,11 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jonycmt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonycmt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-rahaman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jonyislamcmt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jonycmt)
 
-<div style="font-size:23px;font-weight:bold;">
-Gmail:  
+<!-- <div style="font-size:23px;font-weight:bold;">
+Gmail:
 <span style="font-size:20px;">  salmanrahaman8844@gmail.com</span>
 
-</div>
+</div> -->
 
 [![](https://visitcount.itsvg.in/api?id=jonycmtt&icon=0&color=6)](https://visitcount.itsvg.in)
 
