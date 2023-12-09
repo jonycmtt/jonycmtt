@@ -108,13 +108,13 @@
 <br>
 
 <p align="center">
-<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg"/>
-<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Atom.svg"/>
-<img width="60" src="https://raw.githubusercontent.com/jonycmtt/jonycmtt/main/images/icons/pngegg.png"/>
+<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Vite-Dark.svg"/>
+<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg"/>
+<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg"/>
+<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Photoshop.svg"/>
 
 </p>
-
-<!-- 👯
-🌱
-💬 Ask me about how to learn front end web development
-⚡ Fun fact -  -->
+<p align="center">
+<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/XD.svg"/>
+<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Wordpress.svg"/>
+</p>
