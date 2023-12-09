@@ -128,7 +128,8 @@ Gmail:
 <br>
 <br>
 <br>
-<p align="center">
-<img width="800" height="" src="https://api.githubtrends.io/user/svg/jonycmtt/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark"/>
 
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonycmtt&theme=gruvbox)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonycmtt&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonycmtt&theme=gruvbox)
